@@ -1,0 +1,24 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "- [ ] Fork and clone this repo - [ ] Initialize node in your cloned repo so it becomes a node project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexJBustillos/node_modules_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexJBustillos/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/AlexJBustillos/node_modules_practice#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "easy-math.js": "^1.1.4",
+    "map-array": "^1.2.1"
+  }
+}
